@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "BFFading"
+  m_Controller: {fileID: 9100000, guid: c010890ac9db476fbf9de94f5bab0263, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9358c0c8d61c452ba8fe4b7eaf5c083b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cd46dbaeafe8493ca591fc910fdf4a9c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8c65ff7488614a34898fe15097f2283b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5d1736ffe5bc42f8a008427c30a43678, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1f7815307bc74b0bbee9adc426b202aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b63e9ccd90a4211a5809714f5e2c9e4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ffdfb58651e4ba09db42904a7ead074, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4240edda72504b6c989420799a324a3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8449ec9edeca45509cacbee6e0efd867, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 041f9f0c033745dda81dba1d7813dd4e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e2014ceac4f843788296c688b80bcd0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8d073185a7aa488eb68ca77e6190dda6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1bff96d09a0342389f1e3e22e65536d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a49885f15ca24457a75be3d388f78160, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8245b7e754a54dc3a5e75a3fc94b2d42, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1aec773cb16b4086b3b18464d209cd84, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2be2d4ac7bae4475a54f61f232e3442b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 01a24fcdc721452a98d9c0a29c732640, type: 2}

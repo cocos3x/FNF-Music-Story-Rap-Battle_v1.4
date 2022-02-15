@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: c53041e5a1a74de583d0a5ef5246a128
+timeCreated: 1644917151
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spooky dance idle0015
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -88, y: -4}
+      - {x: -88, y: 102}
+      - {x: -82, y: -21}
+    - - {x: -60, y: 124}
+      - {x: -82, y: -21}
+      - {x: -88, y: 102}
+    - - {x: -56, y: -124}
+      - {x: -82, y: -21}
+      - {x: -60, y: 124}
+    - - {x: 6, y: 124}
+      - {x: -56, y: -124}
+      - {x: -60, y: 124}
+    - - {x: 88, y: -124}
+      - {x: -56, y: -124}
+      - {x: 6, y: 124}
+    - - {x: 32, y: 101}
+      - {x: 88, y: -124}
+      - {x: 6, y: 124}
+    - - {x: 66, y: 3}
+      - {x: 88, y: -124}
+      - {x: 32, y: 101}
+    - - {x: 88, y: -57}
+      - {x: 88, y: -124}
+      - {x: 66, y: 3}
+    physicsShape:    
+    - - {x: 32, y: -121}
+      - {x: 44, y: -124}
+      - {x: 83, y: -124}
+      - {x: 88, y: -120}
+      - {x: 88, y: -110}
+      - {x: 79, y: -102}
+      - {x: 85.99999, y: -86}
+      - {x: 88, y: -80}
+      - {x: 88, y: -68}
+      - {x: 72.99999, y: -49}
+      - {x: 69, y: -46}
+      - {x: 68, y: -3.000008}
+      - {x: 48, y: 16}
+      - {x: 34, y: 16}
+      - {x: 38, y: 27}
+      - {x: 37, y: 39}
+      - {x: 26, y: 52}
+      - {x: 32, y: 70}
+      - {x: 25, y: 96}
+      - {x: 14, y: 114}
+      - {x: 3, y: 123}
+      - {x: -1, y: 124}
+      - {x: -40, y: 124}
+      - {x: -61, y: 118}
+      - {x: -71, y: 110}
+      - {x: -81, y: 98}
+      - {x: -88, y: 80}
+      - {x: -88, y: 64}
+      - {x: -87, y: 58}
+      - {x: -81, y: 40}
+      - {x: -88, y: 37}
+      - {x: -88, y: 9}
+      - {x: -84, y: 5}
+      - {x: -72, y: 2}
+      - {x: -76, y: -19.00001}
+      - {x: -71, y: -43}
+      - {x: -55, y: -63}
+      - {x: -46, y: -69}
+      - {x: -51, y: -76}
+      - {x: -51, y: -96}
+      - {x: -50, y: -103}
+      - {x: -56, y: -120}
+      - {x: -51, y: -124}
+      - {x: -11, y: -124}
+      - {x: 4, y: -120}
+      - {x: 30, y: -109}
+      - {x: 28, y: -118}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 6f29a6020fb5427623ada4e2dedd722b.bundle
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "GFChristmas"
+  m_Controller: {fileID: 9100000, guid: e4bae6fb4e794afebd4de3383a51ec89, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c5f292c8c9244850bcf8db1231ff9aed, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0cd4a68f91184bb3b4844af4d70afde9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bcafe1d469504eebaa776bd2b2d8b585, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef07c9443f1f4194bd15234185a43d03, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 164b070cb8784f39aad6a2747733ab60, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 25193378963141b6a0aa3e7e15ef6fd2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1570381bc52840159e823d7ad7e00087, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 999ccfd7151d45ee9d08a96dd10b4837, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 71b786d5827740488f9b440d7f710f8e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 80ff97b58f324ca397c942af0ca68b51, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d1a8b1775e2e49ab89a8edb7bd50f059, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c69e3e76c75480a84c5fbc2743e9c99, type: 2}

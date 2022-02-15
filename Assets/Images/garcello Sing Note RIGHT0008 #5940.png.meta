@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 97d8b49ecace4d93849f3a000acdd040
+timeCreated: 1644917161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: garcello Sing Note RIGHT0008 #5940
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -91.00807, y: -162.989}
+      - {x: -91.00807, y: 82.011}
+      - {x: -6.008072, y: -162.989}
+    - - {x: -71.00807, y: 148.011}
+      - {x: -6.008072, y: -162.989}
+      - {x: -91.00807, y: 82.011}
+    - - {x: -8.008072, y: -150.989}
+      - {x: -6.008072, y: -162.989}
+      - {x: -71.00807, y: 148.011}
+    - - {x: -38.00807, y: 163.011}
+      - {x: -8.008072, y: -150.989}
+      - {x: -71.00807, y: 148.011}
+    - - {x: -38.00807, y: 163.011}
+      - {x: 25.99193, y: 163.011}
+      - {x: -8.008072, y: -150.989}
+    - - {x: -0.008071899, y: -158.989}
+      - {x: -8.008072, y: -150.989}
+      - {x: 25.99193, y: 163.011}
+    - - {x: 27.99193, y: -162.989}
+      - {x: -0.008071899, y: -158.989}
+      - {x: 25.99193, y: 163.011}
+    - - {x: 90.99193, y: 131.011}
+      - {x: 27.99193, y: -162.989}
+      - {x: 25.99193, y: 163.011}
+    - - {x: 42.99193, y: -162.989}
+      - {x: 27.99193, y: -162.989}
+      - {x: 90.99193, y: 131.011}
+    - - {x: 63.99193, y: -155.989}
+      - {x: 42.99193, y: -162.989}
+      - {x: 90.99193, y: 131.011}
+    - - {x: 90.99193, y: 17.011}
+      - {x: 63.99193, y: -155.989}
+      - {x: 90.99193, y: 131.011}
+    physicsShape:    
+    - - {x: -8.008072, y: -129.989}
+      - {x: -8.008072, y: -123.989}
+      - {x: -8.008072, y: -124.989}
+      - {x: -7.008072, y: -130.989}
+      - {x: -4.008072, y: -151.989}
+      - {x: 1.991928, y: -156.989}
+      - {x: 7.991928, y: -158.989}
+      - {x: 31.99193, y: -159.989}
+      - {x: 47.99193, y: -157.989}
+      - {x: 57.99193, y: -152.989}
+      - {x: 55.99192, y: -144.989}
+      - {x: 47.99193, y: -137.989}
+      - {x: 44.99193, y: -126.989}
+      - {x: 49.99192, y: -115.989}
+      - {x: 47.99193, y: -99.989}
+      - {x: 37.99193, y: -76.98901}
+      - {x: 41.99193, y: -58.989}
+      - {x: 45.99192, y: -51.98901}
+      - {x: 45.99192, y: -43.989}
+      - {x: 30.99193, y: -13.989}
+      - {x: 40.99193, y: -12.989}
+      - {x: 50.99192, y: -3.988998}
+      - {x: 86.99193, y: 51.011}
+      - {x: 88.99192, y: 58.011}
+      - {x: 88.99192, y: 71.01099}
+      - {x: 83.99193, y: 81.011}
+      - {x: 61.99193, y: 85.011}
+      - {x: 54.99193, y: 75.011}
+      - {x: 48.99193, y: 56.011}
+      - {x: 43.99193, y: 48.01099}
+      - {x: 29.99193, y: 28.01099}
+      - {x: 26.99193, y: 40.01099}
+      - {x: 18.99193, y: 61.011}
+      - {x: 24.99193, y: 69.01099}
+      - {x: 31.99193, y: 88.011}
+      - {x: 29.99193, y: 110.011}
+      - {x: 45.99192, y: 105.011}
+      - {x: 47.99193, y: 109.011}
+      - {x: 35.99193, y: 120.011}
+      - {x: 34.99193, y: 129.011}
+      - {x: 38.99193, y: 142.011}
+      - {x: 37.99193, y: 150.011}
+      - {x: 31.99193, y: 155.011}
+      - {x: 22.99193, y: 159.011}
+      - {x: 11.99193, y: 162.011}
+      - {x: -17.00807, y: 162.011}
+      - {x: -36.00807, y: 158.011}
+      - {x: -41.00807, y: 156.011}
+      - {x: -58.00807, y: 133.011}
+      - {x: -54.00807, y: 115.011}
+      - {x: -50.00807, y: 104.011}
+      - {x: -58.00807, y: 97.011}
+      - {x: -62.00807, y: 90.011}
+      - {x: -61.00807, y: 80.011}
+      - {x: -48.00807, y: 66.01099}
+      - {x: -60.00807, y: 55.011}
+      - {x: -69.00807, y: 43.01099}
+      - {x: -88.00807, y: 2.010986}
+      - {x: -90.00807, y: -1.988998}
+      - {x: -90.00807, y: -8.989014}
+      - {x: -89.00806, y: -14.989}
+      - {x: -78.00807, y: -24.989}
+      - {x: -64.00807, y: -31.989}
+      - {x: -68.00807, y: -38.989}
+      - {x: -84.00807, y: -50.98901}
+      - {x: -81.00807, y: -56.989}
+      - {x: -60.00807, y: -66.989}
+      - {x: -73.00807, y: -102.989}
+      - {x: -76.00806, y: -122.989}
+      - {x: -71.00807, y: -128.989}
+      - {x: -73.00807, y: -147.989}
+      - {x: -59.00807, y: -156.989}
+      - {x: -42.00807, y: -160.989}
+      - {x: -12.00807, y: -160.989}
+      - {x: -8.008072, y: -151.989}
+      - {x: -18.00807, y: -137.989}
+      - {x: -13.00807, y: -135.989}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 6f29a6020fb5427623ada4e2dedd722b.bundle
+  assetBundleVariant: 

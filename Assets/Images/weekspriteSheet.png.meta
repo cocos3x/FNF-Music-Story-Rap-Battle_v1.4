@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 70483aa533624c77b523128952ef4ad5
+timeCreated: 1644917188
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300004: weekspriteSheet_2
+    21300000: weekspriteSheet_5
+    21300002: weekspriteSheet_3
+    21300008: weekspriteSheet_4
+    21300006: weekspriteSheet_1
+    21300010: weekspriteSheet_0
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 85.3125
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weekspriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023.147
+        width: 1092
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4990707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -165.16}
+        - {x: -546, y: 164.84}
+        - {x: 546, y: -165.16}
+      - - {x: 546, y: 164.84}
+        - {x: 546, y: -165.16}
+        - {x: -546, y: 164.84}
+      physicsShape:      
+      - - {x: -546, y: 164.84}
+        - {x: -546, y: -165.16}
+        - {x: 546, y: -165.16}
+        - {x: 546, y: 164.84}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weekspriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1092
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4996657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -169.6133}
+        - {x: -546, y: 169.3867}
+        - {x: 546, y: -169.6133}
+      - - {x: 546, y: 169.3867}
+        - {x: 546, y: -169.6133}
+        - {x: -546, y: 169.3867}
+      physicsShape:      
+      - - {x: -546, y: 169.3867}
+        - {x: -546, y: -169.6133}
+        - {x: 546, y: -169.6133}
+        - {x: 546, y: 169.3867}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weekspriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.52
+        width: 1092
+        height: 341
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4979863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -170.6666}
+        - {x: -546, y: 170.3333}
+        - {x: 546, y: -170.6666}
+      - - {x: 546, y: 170.3333}
+        - {x: 546, y: -170.6666}
+        - {x: -546, y: 170.3333}
+      physicsShape:      
+      - - {x: -546, y: 170.3334}
+        - {x: -546, y: -170.6666}
+        - {x: 546, y: -170.6666}
+        - {x: 546, y: 170.3334}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weekspriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340.48
+        width: 1092
+        height: 343
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4988144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -171.4267}
+        - {x: -546, y: 171.5733}
+        - {x: 546, y: -171.4267}
+      - - {x: 546, y: 171.5733}
+        - {x: 546, y: -171.4267}
+        - {x: -546, y: 171.5733}
+      physicsShape:      
+      - - {x: -546, y: 171.5733}
+        - {x: -546, y: -171.4267}
+        - {x: 546, y: -171.4267}
+        - {x: 546, y: 171.5733}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weekspriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1355.093
+        width: 1092
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4992123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -173.6799}
+        - {x: -546, y: 173.32}
+        - {x: 546, y: -173.6799}
+      - - {x: 546, y: 173.32}
+        - {x: 546, y: -173.6799}
+        - {x: -546, y: 173.32}
+      physicsShape:      
+      - - {x: -546, y: 173.3201}
+        - {x: -546, y: -173.68}
+        - {x: 546, y: -173.68}
+        - {x: 546, y: 173.3201}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weekspriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1701.547
+        width: 1092
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4992123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -546, y: -173.2266}
+        - {x: -546, y: 173.7734}
+        - {x: 546, y: -173.2266}
+      - - {x: 546, y: 173.7734}
+        - {x: 546, y: -173.2266}
+        - {x: -546, y: 173.7734}
+      physicsShape:      
+      - - {x: -546, y: 173.7734}
+        - {x: -546, y: -173.2266}
+        - {x: 546, y: -173.2266}
+        - {x: 546, y: 173.7734}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

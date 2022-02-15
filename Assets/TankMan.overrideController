@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "TankMan"
+  m_Controller: {fileID: 9100000, guid: 3f74faa7ab9f4398b14ce4855b7b4243, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8c556e2af21f44dd84e4a11c4f720434, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 078129e4f82b4dcbb3d5deb7a6522561, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 179c7c489e4049d38dea7599adbc00db, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f836e678a2e4532b5b062c7eff69c3d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16e2e53b010f4311a0f1214e82258fad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9b6349e25a04e78a6a7179614679c6c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 655daa59e864474d80ae34007140c0e9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8b7bbcdbddf742c7a44707aeeb774354, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a360907574684c91864f128e4069a8f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: db841964d0e04690a93a8c47fda4f334, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c12a6763de7049fa8cbae0a5acf3bfaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c12a6763de7049fa8cbae0a5acf3bfaa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 868be2cda7df46adb8bc767de3d603b3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 868be2cda7df46adb8bc767de3d603b3, type: 2}

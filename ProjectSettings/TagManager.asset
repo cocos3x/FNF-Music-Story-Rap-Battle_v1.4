@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow_Left
+  - Arrow_Down
+  - Arrow_Up
+  - Arrow_Right
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Player"
+    uniqueID: 69116425
+    locked: 0
+  - name: "Arrow"
+    uniqueID: 2364987505
+    locked: 0
+  - name: "UI"
+    uniqueID: 2449510145
+    locked: 0
+  - name: "Tutorial"
+    uniqueID: 393969205
+    locked: 0

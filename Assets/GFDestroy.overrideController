@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "GFDestroy"
+  m_Controller: {fileID: 9100000, guid: e4bae6fb4e794afebd4de3383a51ec89, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c5f292c8c9244850bcf8db1231ff9aed, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0d477542c294f9a8b6f1aec8375354f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bcafe1d469504eebaa776bd2b2d8b585, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b5376bca6264dba8d0408004a485154, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 164b070cb8784f39aad6a2747733ab60, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 615ba94dc41a45af8e890b60303e91a7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1570381bc52840159e823d7ad7e00087, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 03f7207c85024d61b26008a57b127d9b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 71b786d5827740488f9b440d7f710f8e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1619c18d54d42bcbdea624c285f7f41, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d1a8b1775e2e49ab89a8edb7bd50f059, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9027f1e2c6e7469794f646aec4172382, type: 2}

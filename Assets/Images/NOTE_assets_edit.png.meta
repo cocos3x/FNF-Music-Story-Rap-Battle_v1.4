@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 5dc2d2ca3e934964b9845175182d9686
+timeCreated: 1644917195
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NOTE_assets_edit_2
+    21300004: NOTE_assets_edit_1
+    21300006: NOTE_assets_edit_4
+    21300002: NOTE_assets_edit_3
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 68, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NOTE_assets_edit_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 37
+        width: 51
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 68, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 51.5}
+        - {x: 25.5, y: 51.5}
+        - {x: -25.5, y: -51.5}
+      - - {x: -25.5, y: -51.5}
+        - {x: 25.5, y: 51.5}
+        - {x: 25.5, y: -51.5}
+      physicsShape:      
+      - - {x: -25.5, y: 51.5}
+        - {x: -25.5, y: -47.49999}
+        - {x: -20.5, y: -51.5}
+        - {x: 14.5, y: -51.5}
+        - {x: 25.5, y: -42.5}
+        - {x: 25.5, y: 51.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOTE_assets_edit_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 51
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 68, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52.5}
+        - {x: 25.5, y: 52.5}
+        - {x: -25.5, y: -52.5}
+      - - {x: -25.5, y: -52.5}
+        - {x: 25.5, y: 52.5}
+        - {x: 25.5, y: -52.5}
+      physicsShape:      
+      - - {x: -25.5, y: 52.5}
+        - {x: -25.5, y: -48.5}
+        - {x: -23.5, y: -52.49999}
+        - {x: 16.5, y: -52.49999}
+        - {x: 25.5, y: -49.5}
+        - {x: 25.5, y: 52.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOTE_assets_edit_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 51
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 68, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 51.5}
+        - {x: 25.5, y: 51.5}
+        - {x: -25.5, y: -51.5}
+      - - {x: -25.5, y: -51.5}
+        - {x: 25.5, y: 51.5}
+        - {x: 25.5, y: -51.5}
+      physicsShape:      
+      - - {x: -25.5, y: 51.5}
+        - {x: -25.5, y: -49.5}
+        - {x: -24.5, y: -51.5}
+        - {x: 16.5, y: -51.5}
+        - {x: 25.5, y: -47.49999}
+        - {x: 25.5, y: 51.5}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOTE_assets_edit_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 68, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52}
+        - {x: 25.5, y: 52}
+        - {x: -25.5, y: -52}
+      - - {x: -25.5, y: -52}
+        - {x: 25.5, y: 52}
+        - {x: 25.5, y: -52}
+      physicsShape:      
+      - - {x: -25.5, y: 52}
+        - {x: -25.5, y: -50}
+        - {x: -20.5, y: -52}
+        - {x: 18.5, y: -52}
+        - {x: 25.5, y: -41}
+        - {x: 25.5, y: 52}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
